@@ -1,0 +1,154 @@
+{
+  "@context" : "http://iiif.io/api/presentation/2/context.json",
+  "@id" : "https://dkerdesky.github.io/Dana-Kerdesky-IIIF-202206/manifests/JUSTSEEDS.json",
+  "@type" : "sc:Manifest",
+  "label" : "DE-MIL-I-TA-RISE",
+  "metadata" : [ ],
+  "description" : [ {
+    "@value" : "Dissenters portfolio and booklet by Justseeds Artists Cooperative.",
+    "@language" : "en"
+  } ],
+  "license" : "https://creativecommons.org/licenses/by/3.0/",
+  "attribution" : "Justseeds Artists Cooperative",
+  "sequences" : [ {
+    "@id" : "http://bf566fb5-ec9b-4e14-90f6-3a033d5b5dab",
+    "@type" : "sc:Sequence",
+    "label" : [ {
+      "@value" : "Normal Sequence",
+      "@language" : "en"
+    } ],
+    "canvases" : [ {
+      "@id" : "http://44aeea14-dfd9-40b7-95dd-62c4e53e8cb5",
+      "@type" : "sc:Canvas",
+      "label" : "Reinvest! ",
+      "height" : 10800,
+      "width" : 7200,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://3f74c05d-d843-45aa-830e-fcecd26f7626",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://iiif.archivelab.org/iiif/25-roger-ourthiague-jr-reinvest-1/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://iiif.archivelab.org/iiif/25-roger-ourthiague-jr-reinvest-1",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json" ]
+          },
+          "height" : 10800,
+          "width" : 7200
+        },
+        "on" : "http://44aeea14-dfd9-40b7-95dd-62c4e53e8cb5"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://dcd5393f-3ef2-4f1c-bced-aad7f3c487c6",
+      "@type" : "sc:Canvas",
+      "label" : "Support Liberation Struggles",
+      "height" : 10800,
+      "width" : 7200,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://ab8f1417-6469-443d-9466-cf4633d89d34",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://iiif.archivelab.org/iiif/24-roger-peet-support-liberation-struggles-1/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://iiif.archivelab.org/iiif/24-roger-peet-support-liberation-struggles-1",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json" ]
+          },
+          "height" : 10800,
+          "width" : 7200
+        },
+        "on" : "http://dcd5393f-3ef2-4f1c-bced-aad7f3c487c6"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://49b0279a-1ff8-4628-a352-16cb13e8e3ab",
+      "@type" : "sc:Canvas",
+      "label" : "Fight With & For All Of Us ",
+      "height" : 10800,
+      "width" : 7200,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://53e6de9a-4cc9-4e8a-a2c9-a4bb13cbb92a",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://iiif.archivelab.org/iiif/11-grea-rosa-fight-with-for-all-of-us-1/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://iiif.archivelab.org/iiif/11-grea-rosa-fight-with-for-all-of-us-1",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json" ]
+          },
+          "height" : 10800,
+          "width" : 7200
+        },
+        "on" : "http://49b0279a-1ff8-4628-a352-16cb13e8e3ab"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://72218cc0-2f20-467b-b993-10feeec9c007",
+      "@type" : "sc:Canvas",
+      "label" : "Real Safety Comes From",
+      "height" : 10800,
+      "width" : 7200,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://2daf5a31-48a8-4d39-8d61-ebf7634ef91b",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://iiif.archivelab.org/iiif/6-asha-edwards-real-safety-comes-from-1/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://iiif.archivelab.org/iiif/6-asha-edwards-real-safety-comes-from-1",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json" ]
+          },
+          "height" : 10800,
+          "width" : 7200
+        },
+        "on" : "http://72218cc0-2f20-467b-b993-10feeec9c007"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://4631d9de-bf57-4819-9a51-3e9302079d65",
+      "@type" : "sc:Canvas",
+      "label" : "Together We Grow",
+      "height" : 10800,
+      "width" : 7200,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://8ad155dd-f4e8-437f-bb13-5871597b5ac2",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://iiif.archivelab.org/iiif/5-andrea-narno-together-we-grow-a-new-path-1/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://iiif.archivelab.org/iiif/5-andrea-narno-together-we-grow-a-new-path-1",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json" ]
+          },
+          "height" : 10800,
+          "width" : 7200
+        },
+        "on" : "http://4631d9de-bf57-4819-9a51-3e9302079d65"
+      } ],
+      "related" : ""
+    } ]
+  } ],
+  "structures" : [ ],
+  "viewingDirection" : "left-to-right"
+}
