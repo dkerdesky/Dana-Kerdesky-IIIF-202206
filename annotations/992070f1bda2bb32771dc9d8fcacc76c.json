@@ -1,0 +1,39 @@
+{
+  "@type" : "sc:AnnotationList",
+  "resources" : [ {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "<img src=\"https://tile.loc.gov/storage-services/service/pnp/cph/3f00000/3f05000/3f05200/3f05232v.jpg\" alt=\"Hiking WPA recreation project--Dist. no. 2 / / Shari.\" width=\"703\" height=\"1024\" />\nHiking WPA recreation project--Dist. no. 2 / / Shari.\n<span style=\"color: #242424; font-family: 'Open Sans', Arial, Helvetica, sans-serif;\">Weisberg, Shari, artist.&nbsp;\n<span style=\"color: #242424; font-family: 'Open Sans', Arial, Helvetica, sans-serif;\"><a style=\"color: #0076ad; outline: 0px; overflow-wrap: break-word;\" href=\"https://lccn.loc.gov/98513529\" target=\"_blank\" rel=\"noopener\">https://lccn.loc.gov/98513529",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p><img src=\"https://tile.loc.gov/storage-services/service/pnp/cph/3f00000/3f05000/3f05200/3f05232v.jpg\" alt=\"Hiking WPA recreation project--Dist. no. 2 / / Shari.\" width=\"703\" height=\"1024\" /></p>\n<p>Hiking WPA recreation project--Dist. no. 2 / / Shari.</p>\n<p><span style=\"color: #242424; font-family: 'Open Sans', Arial, Helvetica, sans-serif;\">Weisberg, Shari, artist.&nbsp;</span></p>\n<p><span style=\"color: #242424; font-family: 'Open Sans', Arial, Helvetica, sans-serif;\"><a style=\"color: #0076ad; outline: 0px; overflow-wrap: break-word;\" href=\"https://lccn.loc.gov/98513529\" target=\"_blank\" rel=\"noopener\">https://lccn.loc.gov/98513529</a></span></p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/108364241",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2022-06-30T19:51:22",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1656618682242",
+    "dcterms:modified" : "2022-06-30T19:52:08",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://dkerdesky.github.io/Dana-Kerdesky-IIIF-202206/manifests/WPA.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=2535,3014,1596,2023"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M2768.88222,3309.80884c147.33093,-169.88841 355.16509,-296.39856 564.0064,-296.24741v0v0c208.84131,0.15115 390.77713,118.49935 564.0064,296.24741c173.22927,177.74806 240.56129,448.60179 233.6191,715.20451c-6.94219,266.60272 -88.1586,528.95442 -233.6191,715.20451c-145.4605,186.25009 -355.16509,296.39856 -564.0064,296.24741c-208.84131,-0.15115 -416.81935,-110.60191 -564.0064,-296.24741c-147.18705,-185.6455 -233.58313,-446.48573 -233.6191,-715.20451c-0.03597,-268.71878 86.28817,-545.3161 233.6191,-715.20451z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;editable&quot;:true}\" id=\"ellipse_84b35bbd-e8b6-428c-9a21-82f6210fdce6\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"185.51834\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://815f2347-7a26-45ae-b4b9-77e42e253ebe"
+    } ]
+  } ],
+  "@id" : "https://dkerdesky.github.io/Dana-Kerdesky-IIIF-202206/annotations/992070f1bda2bb32771dc9d8fcacc76c.json",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
