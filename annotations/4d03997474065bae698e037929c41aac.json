@@ -1,0 +1,105 @@
+{
+  "@type" : "sc:AnnotationList",
+  "resources" : [ {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "<span style=\"color: #242424; font-family: 'Open Sans', Arial, Helvetica, sans-serif;\">Miscellaneous lot of photographs by Barbara Wright. National Youth Administration (NYA), Works Progress Administration (WPA) and Civilian Conservation Corps (CCC). Chicago, Illinois. NYA training center<img src=\"https://tile.loc.gov/storage-services/service/pnp/fsa/8d40000/8d40800/8d40851v.jpg\" alt=\"Miscellaneous lot of photographs by Barbara Wright. National Youth Administration (NYA), Works Progress Administration (WPA) and Civilian Conservation Corps (CCC). Chicago, Illinois. NYA training center\" width=\"786\" height=\"1024\" />",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p><span style=\"color: #242424; font-family: 'Open Sans', Arial, Helvetica, sans-serif;\">Miscellaneous lot of photographs by Barbara Wright. National Youth Administration (NYA), Works Progress Administration (WPA) and Civilian Conservation Corps (CCC). Chicago, Illinois. NYA training center</span><img src=\"https://tile.loc.gov/storage-services/service/pnp/fsa/8d40000/8d40800/8d40851v.jpg\" alt=\"Miscellaneous lot of photographs by Barbara Wright. National Youth Administration (NYA), Works Progress Administration (WPA) and Civilian Conservation Corps (CCC). Chicago, Illinois. NYA training center\" width=\"786\" height=\"1024\" /></p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/108364241",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2022-06-30T19:30:00",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1656617400628",
+    "dcterms:modified" : "2022-06-30T19:30:00",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://dkerdesky.github.io/Dana-Kerdesky-IIIF-202206/manifests/WPA.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=426,489,1350,1905"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M426.01489,488.9283h674.91458v0h674.91458v952.40883v952.40883h-674.91458h-674.91458v-952.40883z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_425a45ef-d712-4770-9073-0f26c50e0eb1\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://62714faa-5020-4ff5-8f57-974f9fa002d1"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "<img src=\"https://tile.loc.gov/storage-services/service/pnp/fsa/8d40000/8d40800/8d40855v.jpg\" alt=\"Miscellaneous lot of photographs by Barbara Wright. National Youth Administration (NYA), Works Progress Administration (WPA) and Civilian Conservation Corps (CCC)\" width=\"1024\" height=\"778\" />\n<span style=\"color: #242424; font-family: 'Open Sans', Arial, Helvetica, sans-serif;\">Miscellaneous lot of photographs by Barbara Wright. National Youth Administration (NYA), Works Progress Administration (WPA) and Civilian Conservation Corps (CCC)",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p><img src=\"https://tile.loc.gov/storage-services/service/pnp/fsa/8d40000/8d40800/8d40855v.jpg\" alt=\"Miscellaneous lot of photographs by Barbara Wright. National Youth Administration (NYA), Works Progress Administration (WPA) and Civilian Conservation Corps (CCC)\" width=\"1024\" height=\"778\" /></p>\n<p><span style=\"color: #242424; font-family: 'Open Sans', Arial, Helvetica, sans-serif;\">Miscellaneous lot of photographs by Barbara Wright. National Youth Administration (NYA), Works Progress Administration (WPA) and Civilian Conservation Corps (CCC)</span></p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/108364241",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2022-06-30T19:31:36",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1656617496682",
+    "dcterms:modified" : "2022-06-30T19:31:36",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://dkerdesky.github.io/Dana-Kerdesky-IIIF-202206/manifests/WPA.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=723,3663,2285,2714"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M723.33014,3663.3025h1142.69059v0h1142.69059v1356.75758v1356.75758h-1142.69059h-1142.69059v-1356.75758z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_9397fd03-5a4c-4f80-a87b-6bb648346f54\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://62714faa-5020-4ff5-8f57-974f9fa002d1"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "<h1 class=\"h2\" style=\"box-sizing: border-box; margin-top: 0px; margin-bottom: 0.5rem; line-height: 1.2; font-size: 2rem; color: #212529; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans', sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji';\">WPA pamphlets and leaflets for 1938 to 1940\n<a title=\"WPA pamphlets and leaflets for 1938 to 1940\" href=\"https://a860-collectionguides.nyc.gov/repositories/2/accessions/6274\" target=\"_blank\" rel=\"noopener\">Contains pamphlets and leaflets published by the Board of Education in cooperation with the Federal Works Agency, Works Projects Administration for the City of New York. The majority of these pamphlets are addressed to children and consist of stories and quizzes on the same. One or two appear to be addressed to adult groups. There are about 30 to 35 pieces, some of which are duplicated.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<h1 class=\"h2\" style=\"box-sizing: border-box; margin-top: 0px; margin-bottom: 0.5rem; line-height: 1.2; font-size: 2rem; color: #212529; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans', sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji';\">WPA pamphlets and leaflets for 1938 to 1940</h1>\n<p><a title=\"WPA pamphlets and leaflets for 1938 to 1940\" href=\"https://a860-collectionguides.nyc.gov/repositories/2/accessions/6274\" target=\"_blank\" rel=\"noopener\">Contains pamphlets and leaflets published by the Board of Education in cooperation with the Federal Works Agency, Works Projects Administration for the City of New York. The majority of these pamphlets are addressed to children and consist of stories and quizzes on the same. One or two appear to be addressed to adult groups. There are about 30 to 35 pieces, some of which are duplicated.</a></p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/108364241",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2022-06-30T19:36:55",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1656617815656",
+    "dcterms:modified" : "2022-06-30T19:36:55",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://dkerdesky.github.io/Dana-Kerdesky-IIIF-202206/manifests/WPA.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=1143,7267,1821,825"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1477.54019,7268.05349c182.38616,-6.35654 429.35868,20.71662 665.9275,88.46171v0v0c236.56882,67.74508 431.88501,164.41795 611.92407,277.1892c180.03906,112.77125 231.62789,220.87234 199.46381,303.54302c-32.16408,82.67067 -148.08108,139.91091 -329.83964,152.08545c-181.75856,12.17454 -429.35868,-20.71662 -665.9275,-88.46171c-236.56882,-67.74508 -462.10634,-170.34409 -611.92407,-277.1892c-149.81773,-106.84511 -223.91566,-217.93631 -199.46381,-303.54302c24.45185,-85.60671 147.45349,-145.72891 329.83964,-152.08545z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:15.968211610045474,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"ellipse_29b39d23-9d39-4683-84d4-77c548308941\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://62714faa-5020-4ff5-8f57-974f9fa002d1"
+    } ]
+  } ],
+  "@id" : "https://dkerdesky.github.io/Dana-Kerdesky-IIIF-202206/annotations/4d03997474065bae698e037929c41aac.json",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
