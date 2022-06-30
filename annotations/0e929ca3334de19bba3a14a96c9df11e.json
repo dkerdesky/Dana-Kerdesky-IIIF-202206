@@ -1,0 +1,105 @@
+{
+  "@type" : "sc:AnnotationList",
+  "resources" : [ {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "<a title=\"An Act to Create the Illinois Emergency Relief Commission (1932)\" href=\"https://ilsos.gov/departments/archives/online_exhibits/100_documents/1932-create-il-emergency-relief-more.html\" target=\"_blank\" rel=\"noopener\">An Act to Create the Illinois Emergency Relief Commission (1932)",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p><a title=\"An Act to Create the Illinois Emergency Relief Commission (1932)\" href=\"https://ilsos.gov/departments/archives/online_exhibits/100_documents/1932-create-il-emergency-relief-more.html\" target=\"_blank\" rel=\"noopener\">An Act to Create the Illinois Emergency Relief Commission (1932)</a></p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/108364241",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2022-06-30T15:40:09",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1656603609565",
+    "dcterms:modified" : "2022-06-30T15:49:58",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://dkerdesky.github.io/Dana-Kerdesky-IIIF-202206/manifests/WPA.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=577,6081,3239,163"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M577.41353,6081.16931h1619.26016v0h1619.26016v81.52953v81.52953h-1619.26016h-1619.26016v-81.52953z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,0,0.74902,1],&quot;editable&quot;:true}\" id=\"rectangle_a8063690-9dc4-4422-acd6-69e4a78abea8\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"27.61013\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://56f5cc35-ef7c-4cc6-8575-53d66d121fd2"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "<span style=\"color: #4d5156; font-family: Roboto, arial, sans-serif;\">The Civilian Conservation Corps was a voluntary government work relief program that ran from 1933 to 1942 in the United States for unemployed, unmarried men ages 18&ndash;25 and eventually expanded to ages 17&ndash;28.&nbsp;",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p><span style=\"color: #4d5156; font-family: Roboto, arial, sans-serif;\">The Civilian Conservation Corps was a voluntary government work relief program that ran from 1933 to 1942 in the United States for unemployed, unmarried men ages 18&ndash;25 and eventually expanded to ages 17&ndash;28.&nbsp;</span></p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/108364241",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2022-06-30T15:23:01",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1656602581968",
+    "dcterms:modified" : "2022-06-30T15:23:01",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://dkerdesky.github.io/Dana-Kerdesky-IIIF-202206/manifests/WPA.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=364,5286,877,765"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M364.29904,5285.67943h438.35048v0h438.35048v382.2799v382.2799h-438.35048h-438.35048v-382.2799z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_4eaa5855-6497-4431-b602-dc7e1d6d0d99\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://56f5cc35-ef7c-4cc6-8575-53d66d121fd2"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "<a title=\"Work Projects Administration (WPA) Poster Collection\" href=\"https://www.loc.gov/pictures/collection/wpapos/\" target=\"_blank\" rel=\"noopener\">The Work Projects Administration (WPA) Poster Collection consists of 907 posters produced from 1936 to 1943 by various branches of the WPA. ",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p><a title=\"Work Projects Administration (WPA) Poster Collection\" href=\"https://www.loc.gov/pictures/collection/wpapos/\" target=\"_blank\" rel=\"noopener\">The Work Projects Administration (WPA) Poster Collection consists of 907 posters produced from 1936 to 1943 by various branches of the WPA. </a></p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/108364241",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2022-06-30T16:53:45",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1656608025992",
+    "dcterms:modified" : "2022-06-30T16:53:45",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://dkerdesky.github.io/Dana-Kerdesky-IIIF-202206/manifests/WPA.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=287,397,2660,3411"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M676.71975,896.43512c245.55822,-286.48168 591.95789,-499.81488 940.03619,-499.56v0v0c348.0783,0.25488 651.3129,199.82465 940.03619,499.56c288.72329,299.73536 400.94638,756.47417 389.37574,1206.04454c-11.57064,449.57036 -146.93499,891.97227 -389.37574,1206.04454c-242.44075,314.07226 -591.95789,499.81488 -940.03619,499.56c-348.0783,-0.25488 -694.71777,-186.50725 -940.03619,-499.56c-245.31842,-313.05275 -389.31579,-752.90588 -389.37574,-1206.04454c-0.05995,-453.13866 143.81751,-919.56286 389.37574,-1206.04454z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"ellipse_cc91ef82-c14b-4c1e-be94-fde94ac51ec3\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://56f5cc35-ef7c-4cc6-8575-53d66d121fd2"
+    } ]
+  } ],
+  "@id" : "https://dkerdesky.github.io/Dana-Kerdesky-IIIF-202206/annotations/0e929ca3334de19bba3a14a96c9df11e.json",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
