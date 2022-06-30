@@ -1,6 +1,6 @@
 {
   "@type" : "sc:Layer",
-  "otherContent" : [ "https://dkerdesky.github.io/Dana-Kerdesky-IIIF-202206/annotations/0e929ca3334de19bba3a14a96c9df11e.json", "https://dkerdesky.github.io/Dana-Kerdesky-IIIF-202206/annotations/4d03997474065bae698e037929c41aac.json" ],
+  "otherContent" : [ "https://dkerdesky.github.io/Dana-Kerdesky-IIIF-202206/annotations/0e929ca3334de19bba3a14a96c9df11e.json", "https://dkerdesky.github.io/Dana-Kerdesky-IIIF-202206/annotations/4d03997474065bae698e037929c41aac.json", "https://dkerdesky.github.io/Dana-Kerdesky-IIIF-202206/annotations/992070f1bda2bb32771dc9d8fcacc76c.json" ],
   "@id" : "https://dkerdesky.github.io/Dana-Kerdesky-IIIF-202206/annotations/collection.json",
   "label" : "All annotations loaded in dkerdesky/Dana-Kerdesky-IIIF-202206 project",
   "@context" : "http://iiif.io/api/presentation/2/context.json"
