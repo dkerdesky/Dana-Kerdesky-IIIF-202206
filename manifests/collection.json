@@ -9,9 +9,5 @@
     "@type" : "sc:Manifest",
     "@id" : "https://dkerdesky.github.io/Dana-Kerdesky-IIIF-202206/manifests/JUSTSEEDS.json",
     "label" : "DE-MIL-I-TA-RISE"
-  }, {
-    "@type" : "sc:Manifest",
-    "@id" : "https://dkerdesky.github.io/Dana-Kerdesky-IIIF-202206/manifests/WPA.json",
-    "label" : "[Click to edit label]"
   } ]
 }
