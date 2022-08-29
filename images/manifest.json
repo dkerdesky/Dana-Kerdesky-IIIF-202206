@@ -6,6 +6,63 @@
   "type" : "Manifest",
   "@context" : "http://iiif.io/api/presentation/3/context.json",
   "items" : [ {
+    "width" : 1200,
+    "id" : "https://dkerdesky.github.io/Dana-Kerdesky-IIIF-202206/images/RS18188_P-972-231-4_001-scr/canvas/",
+    "label" : {
+      "none" : [ "RS18188_P-972-231-4_001-scr" ]
+    },
+    "type" : "Canvas",
+    "items" : [ {
+      "id" : "https://dkerdesky.github.io/Dana-Kerdesky-IIIF-202206/images/RS18188_P-972-231-4_001-scr/AnnoPage/",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "motivation" : "Painting",
+        "id" : "https://dkerdesky.github.io/Dana-Kerdesky-IIIF-202206/images/RS18188_P-972-231-4_001-scr/annotation/",
+        "type" : "Annotation",
+        "body" : {
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 38,
+              "height" : 25
+            }, {
+              "width" : 75,
+              "height" : 50
+            }, {
+              "width" : 150,
+              "height" : 100
+            }, {
+              "width" : 300,
+              "height" : 200
+            }, {
+              "width" : 600,
+              "height" : 400
+            }, {
+              "width" : 1200,
+              "height" : 800
+            } ],
+            "profile" : "http://iiif.io/api/image/2/level0.json",
+            "width" : 1200,
+            "@id" : "https://dkerdesky.github.io/Dana-Kerdesky-IIIF-202206/images/RS18188_P-972-231-4_001-scr",
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "height" : 800
+          } ],
+          "format" : "image/jpeg",
+          "width" : 1200,
+          "id" : "https://dkerdesky.github.io/Dana-Kerdesky-IIIF-202206/images/RS18188_P-972-231-4_001-scr/full/full/0/default.jpg",
+          "type" : "Image",
+          "height" : 800
+        },
+        "target" : "https://dkerdesky.github.io/Dana-Kerdesky-IIIF-202206/images/RS18188_P-972-231-4_001-scr/canvas/"
+      } ]
+    } ],
+    "height" : 800
+  }, {
     "width" : 1884,
     "id" : "https://dkerdesky.github.io/Dana-Kerdesky-IIIF-202206/images/BettyShabazz/canvas/",
     "label" : {
